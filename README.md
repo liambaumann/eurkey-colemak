@@ -1,1 +1,1 @@
-# eurkey-colemak
+# EurKEY-Colemak
