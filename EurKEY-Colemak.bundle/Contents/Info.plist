@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.eurkey-colemak</string>
+	<string>org.sil.ukelele.keyboardlayout.unsavedukeleledocument2</string>
 	<key>CFBundleName</key>
 	<string>EurKEY-Colemak</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_EurKEY Colemak</key>
+	<key>KLInfo_EurKEY-Colemak</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.eurkey-colemak.eurkeycolemak</string>
+		<string>org.sil.ukelele.keyboardlayout.unsavedukeleledocument2.eurkey-colemak</string>
 		<key>TISIntendedLanguage</key>
-		<string>en</string>
+		<string></string>
 	</dict>
 </dict>
 </plist>
